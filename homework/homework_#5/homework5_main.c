@@ -256,11 +256,11 @@ int c;
     } 
     
     else if (status == mistake_founded_space){
-      printf("Ups, ya has abierto esta casilla, intentarías de nuevo, ¿por favor?\n");
+      printf("Ya seleccionaste esa casilla, tas ciego o que onda?\n");
     } 
     
     else if (status == mistake_founded_mine){
-      printf("Perdiste esta partida:(, ¿intentas de nuevo? ¡Tu puedes!\n");
+      printf("JAJAJAJAJAJA Perdiste\n");
      mustShowMines = 1;
     }
   }
