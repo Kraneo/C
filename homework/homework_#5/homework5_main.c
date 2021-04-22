@@ -1,4 +1,4 @@
-#include <assert.h>                             //Based of the book "The C programming Language"//
+#include <assert.h>                            
 #include <ctype.h>   
 #include <stdio.h>   
 #include <stdlib.h>  
@@ -19,7 +19,7 @@
 #define debug 0  
 
 
-int getCloseMines(int fila, int columna, char tablero[rows][columns]){       //**Credits.Montserrat Orozco, she explain me and help me with some details of my code**//
+int getCloseMines(int fila, int columna, char tablero[rows][columns]){       //**Credits to Montserrat Orozco**//
     
   int conteo = 0, filaInicio, filaFin, columnaInicio, columnaFin;
   if (fila <= 0) {
