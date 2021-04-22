@@ -1,3 +1,7 @@
+/*This is the code you'll run, of course with the other.
+Run the code and the game will start
+Insert a raw and columns like A1,B4,C3 etc.
+Enjoy the game*/
 #include <assert.h>                            
 #include <ctype.h>   
 #include <stdio.h>   
