@@ -1,4 +1,8 @@
-#include <assert.h>                             //Based of the book "The C programming Language"//
+/*This is the code you'll run, of course with the other.
+Run the code and the game will start
+Insert a raw and columns like A1,B4,C3 etc.
+Enjoy the game*/
+#include <assert.h>                            
 #include <ctype.h>   
 #include <stdio.h>   
 #include <stdlib.h>  
@@ -19,7 +23,7 @@
 #define debug 0  
 
 
-int getCloseMines(int fila, int columna, char tablero[rows][columns]){       //**Credits.Montserrat Orozco, she explain me and help me with some details of my code**//
+int getCloseMines(int fila, int columna, char tablero[rows][columns]){       //**Credits to Montserrat Orozco**//
     
   int conteo = 0, filaInicio, filaFin, columnaInicio, columnaFin;
   if (fila <= 0) {
@@ -252,11 +256,11 @@ int c;
     } 
     
     else if (status == mistake_founded_space){
-      printf("Ups, ya has abierto esta casilla, intentarías de nuevo, ¿por favor?\n");
+      printf("Ya seleccionaste esa casilla, tas ciego o que onda?\n");
     } 
     
     else if (status == mistake_founded_mine){
-      printf("Perdiste esta partida:(, ¿intentas de nuevo? ¡Tu puedes!\n");
+      printf("JAJAJAJAJAJA Perdiste\n");
      mustShowMines = 1;
     }
   }
