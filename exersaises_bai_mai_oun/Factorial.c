@@ -11,7 +11,7 @@ int main () {
 	for (i = 1 ; i <= x ; i++ ) {
 		k = k * i;
 	}
-	printf ("El factorial de %i es: %",x,k);
+	printf ("El factorial de %i es: %i",x,k);
 	
 	return 0;
 }
