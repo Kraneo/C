@@ -37,7 +37,7 @@ switch (optn){
             
  case 1: 
 flx = fopen("log.txt", "a");
-    printf("pin of enter sucessful:%d Date of tday:%s %s\n", pin, output, buffer);                   //Credit Marcela Montserrat she explained me the homework and made a lot of advices to this
+    printf("pin of enter sucessful:%d Date of tday:%s %s\n", pin, output, buffer);                   //Credits,collab. Marcela Montserrat she explained me this code because I didn't undestand very well
     fprintf(flx, "e%d %lu %s %s\n", pin, (unsigned long)time(NULL), output, buffer);
     printf("Think in BIG THINGS! Is you!");
     fflush(flx);
