@@ -37,7 +37,7 @@ switch (optn){
             
  case 1: 
 flx = fopen("log.txt", "a");
-    printf("pin of enter sucessful:%d Date of tday:%s %s\n", pin, output, buffer);
+    printf("pin of enter sucessful:%d Date of tday:%s %s\n", pin, output, buffer);                   //Credit Marcela Montserrat she explained me the homework and made a lot of advices to this
     fprintf(flx, "e%d %lu %s %s\n", pin, (unsigned long)time(NULL), output, buffer);
     printf("Think in BIG THINGS! Is you!");
     fflush(flx);
@@ -124,4 +124,3 @@ printf("Sorrryyyy, we cant assist you right now man, you did not write a valid o
         exit(1);
     }
 }
- //**Credit Collab.Montserrat O., she explain me the hw7 and i got based on that code struct(functions form)**//
