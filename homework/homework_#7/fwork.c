@@ -1,6 +1,6 @@
 #include "jelp.h"                                 
 
-int creaRegist(void)
+int creaRegist(void)                                                 //Credits to Marcela Montserrat
 {
 int newpinn = 1,
 pin, 
@@ -121,4 +121,3 @@ return hourS;
     }
  }
 }
- //**Credit Collab.Montserrat O., she explain me the hw7 and i got based on that code struct(functions form)**//
