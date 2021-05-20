@@ -9,10 +9,10 @@ If you want to see demonstration of how this program works click [here](https://
 
 
 ## Table of Contents 
-* [Autoevaluation](#Autoevaluation)
 * [Demo](#Demo)
 * [The Project in a Nutshell](#The-Project-in-a-Nutshell)
 * [Compilation](#Compilation)
+* [Autoevaluation](#Autoevaluation)
 * [References](#References)
 * [Contact](#Contact)
 <!-- * [License](#license) -->
