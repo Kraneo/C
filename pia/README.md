@@ -42,7 +42,7 @@ When you finish using a function, the program will ask you if you want to contin
 ## Demo
 If you want to see demonstration of how this program works click [here](https://www.youtube.com/watch?v=enOsz2AGQrg) and you will see a video using and testing this program.
 
-##Compiling
+## Compiling
 If you have already read and understand how the program works download the next files from my project folder:
 * bookstore.c
 * shelve.h
@@ -54,5 +54,7 @@ Brian W. Kernighan & Dennis M. Ritchie. (1998). The C Programming Language. Cana
 
 ## Contact
 You can access to my Github repository [here](https://github.com/Kraneo)
+
 You can follow me on [Instagram](https://www.instagram.com/eldeunombre/?hl=es-la) or [Facebook](https://www.facebook.com/ramses.hernandez.522)
+
 You can contact with me on Discord as Craneo#8164 
