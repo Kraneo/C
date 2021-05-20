@@ -5,11 +5,17 @@ If you want to see demonstration of how this program works click [here](https://
 
 ## Autoevaluation
 This project maybe could see very simple but it is not. It took a lot of time. In the video I shown just a bit for the time, of course you can put a lot of sections and also add a lot of books. My grades to the project will be:
+
 Complexity: 2 points. I think this is not simple as I said before but is not a real complex work as others
+
 Funcionality: 3 points .In terms of functions this code does what it supposed to do.
+
 Code: 3 points. I think is very optimized to be more easy.
+
 Storage: 3 points. As I said before you can introduce a lor of sections and a lot of books.
+
 Documentation: 2 points. I took my time to check the grammar in this file. I have a mini error in the code. I put the word moment with a double "m". The video is not the best but I tried to give it to you in the best quality that my poor laptop can export.
+
 In total 13 pints will be very generous, but if you want to give me more I will appreciate that:)
 
 >The objective of this project is to create a code to be used by a bookstore that wants to got the business in order.
