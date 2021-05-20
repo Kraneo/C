@@ -61,11 +61,11 @@ Funcionality: 3 points .In terms of functions this code does what it supposed to
 
 Code: 3 points. I think is very optimized to be more easy.
 
-Storage: 3 points. As I said before you can introduce a lor of sections and a lot of books.
+Storage: 2 points. As I said before you can introduce a lot of sections and a lot of books.
 
 Documentation: 2 points. I took my time to check the grammar in this file. I have a mini error in the code. I put the word moment with a double "m". The video is not the best but I tried to give it to you in the best quality that my poor laptop can export.
 
-In total 13 pints will be very generous, but if you want to give me more I will appreciate that:)
+In total 12 pints will be very generous, but if you want to give me more I will appreciate that:)
 
 ## References 
 Brian W. Kernighan & Dennis M. Ritchie. (1998). The C Programming Language. Canada: Prentice Hall.
