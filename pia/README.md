@@ -17,7 +17,9 @@
 This project has been done with the purpose to help the storebooks to maintain their establishments in order. The program gives you the main functions to manage your own bookstore. The program is not only useful to small bookstores, also you can use it with big bookstores that need to know where is any book on any section. To organize your library the code has three main functions. They are going to appear like this:
 
 [1] - Add a new section
+
 [2] - Add a new book
+
 [3] - Ask for a book
 
 For next, I am going to explain these functions and what you have to do when you select one of them.
