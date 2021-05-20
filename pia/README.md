@@ -1,5 +1,8 @@
 # PIA: Bookstore manager
 
+## Demo
+If you want to see demonstration of how this program works click [here](https://www.youtube.com/watch?v=enOsz2AGQrg) and you will see a video using and testing this program.
+
 >The objective of this project is to create a code to be used by a bookstore that wants to got the business in order.
 >
 >You can find the project [here](https://github.com/Kraneo/C/tree/main/pia)
@@ -40,9 +43,6 @@ With this function you will be able to search the books that you registered. Pre
 
 ### After Use a Function
 When you finish using a function, the program will ask you if you want to continue. If you want to continue just press number 1, but if you want to leave press number 2.
-
-## Demo
-If you want to see demonstration of how this program works click [here](https://www.youtube.com/watch?v=enOsz2AGQrg) and you will see a video using and testing this program.
 
 ## Compiling
 If you have already read and understand how the program works download the next files from my project folder:
