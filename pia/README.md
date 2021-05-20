@@ -1,8 +1,8 @@
-#PIA: Bookstore manager
+# PIA: Bookstore manager
 
 >The objective of this project is to create a code to be used by a bookstore that wants to got the business in order.
 >
-You can find the project [here](https://github.com/Kraneo/C/tree/main/pia)
+>You can find the project [here](https://github.com/Kraneo/C/tree/main/pia)
 
 
 ## Table of Contents 
