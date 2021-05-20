@@ -9,8 +9,8 @@ If you want to see demonstration of how this program works click [here](https://
 
 
 ## Table of Contents 
-* [The Project in a Nutshell](#The-Project-in-a-Nutshell)
 * [Demo](#Demo)
+* [The Project in a Nutshell](#The-Project-in-a-Nutshell)
 * [Compilation](#Compilation)
 * [References](#References)
 * [Contact](#Contact)
