@@ -50,7 +50,7 @@ If you have already read and understand how the program works download the next 
 * bookstore.c
 * header.h
 
-Make sure that the names of the files still being the corrects, specially for shelve.h file. Then compile bookstore.c, and that is all.
+Make sure that the names of the files still being the corrects, specially for header.h file. Then compile bookstore.c, and that is all.
 
 ## Autoevaluation
 This project maybe could see very simple but it is not. It took a lot of time. In the video I shown just a bit for the time, of course you can put a lot of sections and also add a lot of books. My grades to the project will be:
