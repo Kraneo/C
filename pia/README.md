@@ -48,7 +48,7 @@ When you finish using a function, the program will ask you if you want to contin
 ## Compiling
 If you have already read and understand how the program works download the next files from my project folder:
 * bookstore.c
-* shelve.h
+* header.h
 
 Make sure that the names of the files still being the corrects, specially for shelve.h file. Then compile bookstore.c, and that is all.
 
